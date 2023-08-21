@@ -1,0 +1,18 @@
+Hello, welcome to Leul's markdown to raw HTML converter.
+Here is a guide...
+
+#   : <h1>
+##  : <h2>
+### : <h3>
+-   : Italicize
+~   : Bold
+*   : Unordered list
+.   : Ordered list
+!   : Insert image
+
+The code for this 
+
+Notice: **(in order for the image to show up unbroken, the image must exist in the same sub-directory
+as the html file)**
+
+To run html file, type "firefox <html file>" (ignore the quotes)
